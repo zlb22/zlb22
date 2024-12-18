@@ -1,7 +1,7 @@
 ## Hi there 👋
-🔭 I’m currently working on AI agents and exploring their applications.
-🌱 I’m currently learning about AI agent development and open-source contributions.
-👯 I’m looking to collaborate on open-source AI agent projects and learning with like-minded individuals.
+- 🔭 I’m currently working on AI agents and exploring their applications.
+- 🌱 I’m currently learning about AI agent development and open-source contributions.
+- 👯 I’m looking to collaborate on open-source AI agent projects and learning with like-minded individuals.
 
 <!--
 **zlb22/zlb22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
